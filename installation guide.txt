@@ -1,3 +1,7 @@
+The artifact is available
+on Zenodo (10.5281/zenodo.5786391). The
+source code and artifact notebook are zipped within
+supermarq_hpca_ae.tgz.
 
 The supermarq software package and all of its dependencies can be installed via:
 
